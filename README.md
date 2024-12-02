@@ -35,3 +35,5 @@ This file is use to train the model
 
 ### `train.ipynb`
 This file contains a python command to run the training
+
+To get the training model, please head to this link https://drive.google.com/drive/folders/1BcPwVqSxbcQ9siCiGkRLTVsPk4jY4gbL and go to the output folder.
